@@ -1,0 +1,8 @@
+#include "shell.h"
+
+char *shell_getline(char *line, size_t bufsize)
+{
+	bufsize = 0;
+	getline(&line, &bufsize, stdin);
+	return line;
+}
