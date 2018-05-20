@@ -4,7 +4,7 @@
    Special thanks to: Henry Hsu and Dave Yoon
 
 ## Description
-``Simple Shell`` is a imitation of the command line interface in C. Reads input,
+``Simple Shell`` is an imitation of the command line interface in C. Reads input,
 processes user input as command, then executes.
 
 ## File Listing
